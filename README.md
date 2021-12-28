@@ -2,6 +2,12 @@
 
 ## 使用说明
 
+### 引用包
+
+```
+go get github.com/langbox/timef
+```
+
 ### 时间戳转字符串
 
 ```
