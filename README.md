@@ -1,2 +1,11 @@
 # timef
-time format and tools 
+
+## 使用说明
+
+### 时间戳转字符串
+
+```
+var timestamp int64 = 1640682392
+str := timef.GetNormalStringByTimestamp(timestamp)
+fmt.Println(str)
+```
